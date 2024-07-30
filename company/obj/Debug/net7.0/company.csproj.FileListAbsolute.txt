@@ -1,0 +1,8 @@
+D:\gitRepository\sunglee0517\vuets2\study08\backend\csharp\company\obj\Debug\net7.0\company.csproj.AssemblyReference.cache
+D:\gitRepository\sunglee0517\vuets2\study08\backend\csharp\company\obj\Debug\net7.0\company.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitRepository\sunglee0517\vuets2\study08\backend\csharp\company\obj\Debug\net7.0\company.AssemblyInfoInputs.cache
+D:\gitRepository\sunglee0517\vuets2\study08\backend\csharp\company\obj\Debug\net7.0\company.AssemblyInfo.cs
+D:\gitRepository\sunglee0517\vuets2\study08\backend\csharp\company\obj\Debug\net7.0\company.csproj.CoreCompileInputs.cache
+D:\gitRepository\sunglee0517\vuets2\study08\backend\csharp\company\obj\Debug\net7.0\company.MvcApplicationPartsAssemblyInfo.cs
+D:\gitRepository\sunglee0517\vuets2\study08\backend\csharp\company\obj\Debug\net7.0\company.MvcApplicationPartsAssemblyInfo.cache
+D:\gitRepository\sunglee0517\vuets2\study08\backend\csharp\company\obj\Debug\net7.0\company.sourcelink.json
